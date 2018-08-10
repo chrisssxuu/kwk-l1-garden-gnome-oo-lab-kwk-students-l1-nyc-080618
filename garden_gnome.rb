@@ -16,12 +16,15 @@ class GardenGnome
   def hat_color=(new_hat_color)
     @hat_color=new_hat_color
   end
+  
   def gluten_allergy
     @gluten_allergy
   end
+  
   def gluten_allergy=(new_gluten_allergy)
     @new_gluten_allergy
   end
+  
   def name
     @name
   end
