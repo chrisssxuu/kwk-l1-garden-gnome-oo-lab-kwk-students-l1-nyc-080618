@@ -22,3 +22,4 @@ class GardenGnome
   end
 end
 
+test_gnome = GardenGnome.new
