@@ -29,7 +29,9 @@ class GardenGnome
   def shout
     return "GNARlY!!!"
   end
-  
+  def introduce_self
+    return "Hello humans, my name is #{name}, I am #{age} years old, you'll rue the day you crossed me!"
+  end
 end
 
 test_gnome = GardenGnome.new("red")
