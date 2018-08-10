@@ -1,6 +1,6 @@
 # Code your instances here
 class GardenGnome
-  def initialize(hat_color="pink")
+  def initialize(hat_color="red")
     @hat_color = hat_color
     @personality = "evil"
   end
