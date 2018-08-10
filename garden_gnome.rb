@@ -24,7 +24,7 @@ class GardenGnome
   end
   
   def gluten_allergy=(gluten_allergy)
-    @new_gluten_allergy
+    @gluten_allergy
   end
   
   def name
