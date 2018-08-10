@@ -3,6 +3,10 @@ class GardenGnome
   def initialize(name,age)
     @name = name
     @age = age
+    @gluten_allergy = gluten_allergy
+  end
+  def gluten_allergy
+    @gluten_allergy
   end
   def name
     @name
