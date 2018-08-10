@@ -9,6 +9,9 @@ class GardenGnome
   def name=(new_name)
     @name= new_name
   end
+  def age=(new_name)
+    @name= new_name
+  end
 end
 
 test_gnome = GardenGnome.new
