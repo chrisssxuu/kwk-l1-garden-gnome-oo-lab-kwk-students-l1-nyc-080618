@@ -22,4 +22,4 @@ class GardenGnome
   end
 end
 
-test_gnome = GardenGnome.new(Bob,15)
+test_gnome = GardenGnome.new()
