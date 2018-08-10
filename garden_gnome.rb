@@ -2,7 +2,7 @@
 class GardenGnome
   def initialize(name,age)
     @name = name
-    @age=age
+    @age = age
   end
   def name
     @name
