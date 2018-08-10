@@ -45,7 +45,7 @@ class GardenGnome
     return "Gnawing on a tree!!!"
   end
   def shout
-    return "GNARlY!!!"
+    return "GNARLY!!!"
   end
   def introduce_self
     return "Hello humans, my name is #{name}, I am #{age} years old, you'll rue the day you crossed me!"
