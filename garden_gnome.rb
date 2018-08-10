@@ -20,6 +20,8 @@ class GardenGnome
     @gluten_allergy
   end
   def gluten_allergy=(new_gluten_allergy)
+    @new_gluten_allergy
+  end
   def name
     @name
   end
