@@ -7,6 +7,7 @@ class GardenGnome
   def hat_color
     @hat_color
   end
+  def hat_color=(new_hat_color)
   def gluten_allergy
     @gluten_allergy
   end
