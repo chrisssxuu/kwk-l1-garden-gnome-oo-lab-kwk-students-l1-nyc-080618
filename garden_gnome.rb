@@ -24,8 +24,12 @@ class GardenGnome
     @age= new_age
   end
   def gnaw
-    puts "Gnawing on a tree!!!"
+    return "Gnawing on a tree!!!"
   end
+  def shout
+    return "GNARlY!!!"
+  end
+  
 end
 
 test_gnome = GardenGnome.new("red")
