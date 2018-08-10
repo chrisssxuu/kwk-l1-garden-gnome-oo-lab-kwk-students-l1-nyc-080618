@@ -1,4 +1,6 @@
 # Code your instances here
+#READER = GETTER
+#WRITER = SETTER
 class GardenGnome
   def initialize(hat_color="red")
     @hat_color = hat_color
